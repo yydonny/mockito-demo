@@ -1,7 +1,6 @@
 package demo.service;
 
 import demo.model.DemoDocument;
-import demo.service.session.AnotherDemoService;
 import org.easymock.EasyMock;
 import org.junit.Test;
 import org.junit.runner.RunWith;

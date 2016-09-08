@@ -1,4 +1,4 @@
-package demo.service.session;
+package demo.service;
 
 import demo.model.DemoDocument;
 import org.springframework.beans.factory.annotation.Value;
